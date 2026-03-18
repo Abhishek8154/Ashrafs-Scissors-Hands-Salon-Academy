@@ -1,0 +1,7 @@
+{
+  "name": "Ashrafs Scissors Hands Salon & Academy",
+  "description": "Premium Hair Styling & Professional Hair Academy in Andheri East, Mumbai. Expert haircuts, grooming services, and professional hair styling courses.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
